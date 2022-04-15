@@ -1,0 +1,13 @@
+span{
+    display: block;
+}
+
+div{
+    /* border-style: solid; */
+    /* border-color: blue; */
+    /* border-bottom: 20px; */
+    /* border-bottom: solid; */
+    border: 20px solid crimson;
+    margin: 30px;
+    padding: 30px;
+}
